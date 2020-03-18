@@ -1,0 +1,92 @@
+
+body{
+	font-size: 20px;
+	color:#35130C;
+	font-family: sans-serif;
+
+}
+h3{
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+nav li {
+	display: inline;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	margin-right: 30px;
+
+}
+nav,footer{
+	background: #E3D5D2;
+}
+footer {
+
+  position:absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.0rem;            /* Footer height */
+  }
+footer a{
+  text-indent: 30px;
+  margin-right: 50px;
+
+}
+.ftKitchen{
+	position: sticky;	
+
+}
+
+nav a {
+	text-decoration: none;
+	color:#35130C;	
+}
+
+nav a:hover {
+	text-decoration: underline;
+	color: darkgrey;
+}
+
+li {
+	font-weight: bold;
+}
+
+h1 {
+	color: #581845 ;
+}
+
+input {
+	border: 2px solid black;
+	padding: 10px 25px;
+	display: block;
+	margin-bottom: 20px;
+}
+
+.dropdown{
+	font-weight: bold;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+a:hover{
+	opacity: 0.50;
+}
+
+a{
+	text-decoration: none;
+}
+.recipe{
+	color: black;
+}
+button {
+	border: 2px solid black;
+	padding: 10px 25px;
+	display: block;
+	margin-bottom: 20px;
+	background-color: black;
+	color: white;
+}
+
+button:hover {
+	background-color: white;
+	color: black;
+}
